@@ -154,8 +154,8 @@ const contactConfig = {
     description: "I’m always interested in hearing about new projects and opportunities.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
+    YOUR_SERVICE_ID: "service_p087iht",
+    YOUR_TEMPLATE_ID: "template_7pow8qb",
     YOUR_USER_ID: "user_id",
 };
 
