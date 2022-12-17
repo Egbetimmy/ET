@@ -88,63 +88,93 @@ const dataportfolio = [{
         img: "https://res.cloudinary.com/dypv9yccn/image/upload/e_grayscale/v1669622525/portfolio/1_ZtO60QvYVzN3rU0VuSSU1g_af9twi.jpg",
         desctiption: "Data cleaning with Python",
         link: "https://link.medium.com/zLln2XkwNub",
+        categories: {
+            nodes: [
+              {
+                name: 'Development',
+              },
+            ],
+          },
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
+        categories: {
+            nodes: [
+              {
+                name: 'Development',
+              },
+            ],
+          },
     },
     {
         img: "https://picsum.photos/400/?grayscale",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
+        categories: {
+            nodes: [
+              {
+                name: 'Development',
+              },
+            ],
+          },
     },
     {
         img: "https://res.cloudinary.com/dypv9yccn/image/upload/v1669623868/portfolio/Fyuur_hgpsma.jpg",
         desctiption: "Fyuur",
         link: "https://github.com/Egbetimmy/Fyuur-musical-app",
+        categories: {
+            nodes: [
+              {
+                name: 'Development',
+              },
+            ],
+          },
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
+        categories: {
+            nodes: [
+              {
+                name: 'Development',
+              },
+            ],
+          },
     },
 
     {
         img: "https://picsum.photos/400/600/?grayscale",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
+        categories: {
+            nodes: [
+              {
+                name: 'Development',
+              },
+            ],
+          },
     },
     
     {
         img: "https://res.cloudinary.com/dypv9yccn/image/upload/e_grayscale/v1669625125/portfolio/Trivia_API_hqdtij.png",
         desctiption: "Trivia API",
         link: "https://github.com/Egbetimmy/Trivia-Api",
+        category:"Backend",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://res.cloudinary.com/dypv9yccn/image/upload/e_grayscale/v1669625458/portfolio/cd0157-Server-Deployment-and-Containerization_rpt76q.png",
-        desctiption: "Server-Deployment-and-Containerization",
-        link: "https://github.com/Egbetimmy/cd0157-Server-Deployment-and-Containerization",
-    },
-    {
-        img: "https://res.cloudinary.com/dypv9yccn/image/upload/e_grayscale/v1669625962/portfolio/coffee-shop-full-stack_b7nnwl.jpg",
-        desctiption: "Coffee Shop",
-        link: "https://github.com/Egbetimmy/Coffee-Shop",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        categories: {
+            nodes: [
+              {
+                name: 'Development',
+              },
+            ],
+          },
     },
 ];
 
@@ -156,7 +186,7 @@ const contactConfig = {
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_p087iht",
     YOUR_TEMPLATE_ID: "template_7pow8qb",
-    YOUR_USER_ID: "user_id",
+    YOUR_USER_ID: "7DvRVF3_jGZRyJ-mD",
 };
 
 const socialprofils = {
