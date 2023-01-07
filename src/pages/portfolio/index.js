@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./style.css";
+
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
 import { dataportfolio, meta } from "../../content_option";
@@ -59,6 +60,14 @@ export const Portfolio = () => {
                                                     <div className="card-body">
                                                         <h5 className="card-title">{description}</h5>
 
+                                                    </div>
+                                                    <div>
+
+                                                        <p>
+                                                            This project involved building a Minimum Viable Product 
+                                                            for a proptech startup company, Rentgage. Built a mobile application for the product's 
+                                                            client-side as well as the backend to go along with it. 
+                                                        </p>
                                                     </div>
 
                                                 </div>
