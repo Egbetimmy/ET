@@ -61,14 +61,6 @@ export const Portfolio = () => {
                                                         <h5 className="card-title">{description}</h5>
 
                                                     </div>
-                                                    <div>
-
-                                                        <p>
-                                                            This project involved building a Minimum Viable Product 
-                                                            for a proptech startup company, Rentgage. Built a mobile application for the product's 
-                                                            client-side as well as the backend to go along with it. 
-                                                        </p>
-                                                    </div>
 
                                                 </div>
                                                 <a href={link} className="btn btn-primary">view project</a>
