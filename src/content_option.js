@@ -122,7 +122,7 @@ const dataportfolio = [{
 {
   id: 6,
   img: "https://res.cloudinary.com/dypv9yccn/image/upload/e_grayscale/v1673118634/portfolio/Flower-Iris-Siberian-flag-Garden-Close-up_gtrh8k.webp",
-  description: "Unsupervized Machine Learning",
+  description: "Iris dataset",
   link: "https://github.com/Egbetimmy/GRIP-Internship/blob/main/Unsupervised_learning.ipynb",
   category: 'data_science',
 },
@@ -166,6 +166,34 @@ const dataportfolio = [{
   img: "https://res.cloudinary.com/dypv9yccn/image/upload/e_grayscale/v1673119736/portfolio/Deep-Learning_myxyzz.jpg",
   description: "Digit Recognition",
   link: "https://github.com/Egbetimmy/data-science/blob/master/1_digits_recognition/digits_recognition_neural_network.ipynb",
+  category: 'data_science',
+},
+{
+  id: 13,
+  img: "https://res.cloudinary.com/dypv9yccn/image/upload/e_grayscale/v1673638210/portfolio/oil_spill_pe7fhh.webp",
+  description: "Oil Spillage",
+  link: "https://medium.com/@egbetiimmy/exploratory-data-analysis-of-niger-delta-spill-data-673524a57955",
+  category: 'data_analysis',
+},
+{
+  id: 14,
+  img: "https://res.cloudinary.com/dypv9yccn/image/upload/e_grayscale/v1674333623/portfolio/download_w8fqgl.jpg",
+  description: "Facial Recognition",
+  link: "https://medium.com/@egbetiimmy/exploratory-data-analysis-of-niger-delta-spill-data-673524a57955",
+  category: 'data_science',
+},
+{
+  id: 15,
+  img: "https://res.cloudinary.com/dypv9yccn/image/upload/e_grayscale/v1674333624/portfolio/0x0_ptkjxq.jpg",
+  description: "Fake News Detector",
+  link: "https://github.com/Egbetimmy/Fake-News",
+  category: 'data_science',
+},
+{
+  id: 16,
+  img: "https://res.cloudinary.com/dypv9yccn/image/upload/e_grayscale/v1674333676/portfolio/house-price-497112-KhCJQICS_afssha.jpg",
+  description: "House Price Prediction",
+  link: "https://github.com/Egbetimmy/Fake-News",
   category: 'data_science',
 },
 ];
