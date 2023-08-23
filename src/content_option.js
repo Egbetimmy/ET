@@ -26,8 +26,15 @@ const workexperience = [
     role: "Data Analyst",
     location: "Warri, Nigeria",
     company: "FriendZone.",
-    timeline: { "from": "August 2021", "to": "Present" },
+    timeline: { "from": "August 2021", "to": "2022" },
     summary: "• I providing technical expertise in data storage structures, data mining, and data cleansing; \n• Using statistical tools, I identify, analyze, and interpret patterns and trends in complex data. \n• sets that could be helpful for the diagnosis and prediction; \n• I work with programmers and management heads to identify process improvements, opportunities, propose system modifications, and devise data governance strategies; \n• I prepare final analysis reports for the stakeholders to understand the data-analysis steps enabling them to take important decisions based on various facts and trends. \n• I implement visual elements that users see and interact with in a web application.",
+  },
+  {
+    role: "Data Analyst",
+    location: "Warri, Nigeria",
+    company: "FriendZone.",
+    timeline: { "from": "July 2022", "to": "Present" },
+    summary: "• Develop and maintain Python-based backend systems for web applications and APIs using Flask and Django frameworks; \n• Collaborate with front-end developers and project managers to identify technical requirements and deliver on-time solutions; \n• Successfully deployed a Kubernetes cluster on AWS for a high-traffic web application, resulting in 99.9% uptime and reducing costs by 25%; \n• Build and maintain databases using PostgreSQL and MySQLto store and retrieve data; \n• Create unit and integration tests using Pytest and Selenium to ensure system stability and performance; \n• Optimize code performance by identifying bottlenecks and implementing efficient algorithms; \n● Developed a RESTful API that reduced the latency of data retrieval by 50% and improved overall system performance",
   },
 ];
 
@@ -35,9 +42,16 @@ const skills = [{
   name: "Python",
   value: 90,
 },
-
 {
   name: "Flask",
+  value: 85,
+},
+{
+  name: "Django",
+  value: 85,
+},
+{
+  name: "Nodejs",
   value: 85,
 },
 {
@@ -195,6 +209,13 @@ const dataportfolio = [{
   description: "House Price Prediction",
   link: "https://github.com/Egbetimmy/Fake-News",
   category: 'data_science',
+},
+{
+  id: 17,
+  img: "https://res.cloudinary.com/dypv9yccn/image/upload/e_grayscale/v1674333676/portfolio/house-price-497112-KhCJQICS_afssha.jpg",
+  description: "greatfieldindustriesltd",
+  link: "http://greatfieldindustriesltd.com/gfil/index.html ",
+  category: 'web_development',
 },
 ];
 
